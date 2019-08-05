@@ -1,0 +1,2 @@
+class NoAudio(Exception):
+    pass
