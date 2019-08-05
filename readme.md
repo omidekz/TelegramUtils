@@ -15,6 +15,6 @@
     * `audio_file()` -> `telegram.File`
     * `audio_download(path=None)` -> `None`
     * `audio_size()` -> :) don't know
-    `@staticmethod`
+    <br>`@staticmethod`
     * `mention(text, chat_id)` -> `str`
     * `mention_this(text)` -> `str`
