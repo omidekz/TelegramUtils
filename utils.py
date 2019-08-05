@@ -2,7 +2,7 @@ from telegram import *
 
 from typing import Tuple
 
-from CustomExceptions import *
+from TelegramUtils.CustomExceptions import *
 
 
 class Utils:
