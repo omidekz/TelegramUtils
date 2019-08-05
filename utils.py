@@ -59,7 +59,7 @@ class Utils:
         """
         return self.update.message.text
 
-    def is_audio(self):
+    def is_audio(self) -> bool:
         return self.update.message.audio is not None
 
     def audio(self, raise_exception=True) -> Audio:
