@@ -6,7 +6,7 @@ from TelegramUtils.CustomExceptions import *
 
 
 class Utils:
-    def __init__(self, update: Update):
+    def __init__(self, update):
         self.update = update
 
     def first_name(self) -> str:
